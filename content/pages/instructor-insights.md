@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 9f635961-2080-a7da-c78c-40b7d8b1c98c
 ---
@@ -42,36 +44,6 @@ Calculus II GIR ![](/images/educator/icon-question-gir.png)
 ### Offered
 
 Every fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A large classroom with tiered seating and several chalkboards.]({{< resource_file 62d468fb-8be0-3306-97a7-6c6f7e365d78 >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 3 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture
-    
-    The lectures were held in this large classroom with chalkboards.
-    
-*   ![A classroom with tables and chairs for 30 students.]({{< resource_file 10650621-c5f9-3d00-1603-175fff9fb38f >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 3 ![](/images/educator/classroom_next.png)
-    
-    ### Recitation
-    
-    The recitations were held in this smaller classroom.
-    
-*   ![A large room with separate tables and chairs for every student.]({{< resource_file 8101b2b9-2f80-f0fe-3a28-afc5ba40cc98 >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 3 of 3 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Exam
-    
-    Exams were administered in this large room.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

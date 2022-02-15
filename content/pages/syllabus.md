@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 33354b01-9efc-288b-f777-a602d8417133
 ---
@@ -103,7 +105,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Vectors in R2 and R3
+Vectors in R{{< sup "2" >}} and R{{< sup "3" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -400,7 +402,7 @@ Gauss theorem
 34
 {{< tdclose >}}
 {{< tdopen >}}
-Forms on Rn
+Forms on R{{< sup "n" >}}
 {{< tdclose >}}
 
 {{< trclose >}}

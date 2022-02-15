@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 2e3cddc0-846e-9a39-264b-350202eb9d29
 ---
@@ -25,7 +28,7 @@ LECTURE NOTES
  1
 {{< tdclose >}}
 {{< tdopen >}}
-Vectors in R2 and R3
+Vectors in R{{< sup "2" >}} and R{{< sup "3" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit18_022f10_l_1))
@@ -421,7 +424,7 @@ Gauss theorem
  34
 {{< tdclose >}}
 {{< tdopen >}}
-Forms on Rn
+Forms on R{{< sup "n" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit18_022f10_l_34))

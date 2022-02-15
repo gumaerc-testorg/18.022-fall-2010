@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-022-calculus-of-several-variables-fall-2010/8101b2b92f80f0fe3a28afc5ba40cc98_18-022_classroom-3.jpg
+file: /media/courses/18-022-calculus-of-several-variables-fall-2010/8101b2b92f80f0fe3a28afc5ba40cc98_18-022_classroom-3.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: 18-022_classroom-3.jpg
 uid: 8101b2b9-2f80-f0fe-3a28-afc5ba40cc98
