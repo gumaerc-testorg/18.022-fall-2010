@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: a68cc946-3bba-56fd-960e-e4dd072fdb15
 resourcetype: Document
 title: MIT18_022F10_Fin_Exam.pdf
 uid: 5ca3dd75-0edd-7011-d1c8-242e861afabc

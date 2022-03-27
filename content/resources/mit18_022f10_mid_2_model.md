@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: a68cc946-3bba-56fd-960e-e4dd072fdb15
 resourcetype: Document
 title: MIT18_022F10_mid_2_model.pdf
 uid: cbed2693-ead0-f486-3a3f-25a97440884f

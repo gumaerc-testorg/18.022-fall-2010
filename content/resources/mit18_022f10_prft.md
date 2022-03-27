@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: a68cc946-3bba-56fd-960e-e4dd072fdb15
 resourcetype: Document
 title: MIT18_022F10_prft.pdf
 uid: 853ba56f-6a95-2862-5d0c-371e31c15b12

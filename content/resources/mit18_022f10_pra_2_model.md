@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: a68cc946-3bba-56fd-960e-e4dd072fdb15
 resourcetype: Document
 title: MIT18_022F10_pra_2_model.pdf
 uid: 0e4e8669-b529-8164-ab03-dc11704df264

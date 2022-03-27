@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 932ecf24-f8ea-280c-1c2a-462edb8532dd
 resourcetype: Document
 title: MIT18_022F10_model3.pdf
 uid: fe563694-251a-c8c4-6dd6-43d18d463d40
