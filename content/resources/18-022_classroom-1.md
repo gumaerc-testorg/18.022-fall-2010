@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-022-calculus-of-several-variables-fall-2010/62d468fb8be0330697a76c6f7e365d78_18-022_classroom-1.jpg
+file: /courses/18-022-calculus-of-several-variables-fall-2010/62d468fb8be0330697a76c6f7e365d78_18-022_classroom-1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

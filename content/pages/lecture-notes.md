@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the lecture notes from the course and the schedule
+  of lecture topics.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -31,7 +33,7 @@ LECTURE NOTES
 Vectors in R{{< sup "2" >}} and R{{< sup "3" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_1))
+({{% resource_link 00eb8d35-51c3-c991-805c-0cf42970ee47 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +45,7 @@ Vectors in R{{< sup "2" >}} and R{{< sup "3" >}}
 Dot product
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_2))
+({{% resource_link a6024da9-8031-09ca-817b-3baf99643923 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +57,7 @@ Dot product
 Cross product
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_3))
+({{% resource_link f0de3c34-66fd-8fce-a18f-dedf10738a40 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +69,7 @@ Cross product
 Planes and distances
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_4))
+({{% resource_link 511df3a6-3070-be15-302d-824643055d25 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +81,7 @@ Planes and distances
 _n_\-dimensional space
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_5))
+({{% resource_link 7744c811-e7ad-bcaf-ecf4-e84b029a21bf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +93,7 @@ _n_\-dimensional space
 Cylindrical and spherical coordinates
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_6))
+({{% resource_link 5377ad99-dd2f-5256-7b3c-92ad5b9690ed "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +105,7 @@ Cylindrical and spherical coordinates
 Functions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_7))
+({{% resource_link 20c3c9fb-826c-6ebb-ee13-67570cdcc607 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +117,7 @@ Functions
 Limits
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_8))
+({{% resource_link 8b0d14d2-38f3-4e0e-1b95-8a452c073cd2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +129,7 @@ Limits
 The Derivative
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_9))
+({{% resource_link 28ba739d-5dd5-6e96-9eee-749bf64d45bf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +141,7 @@ The Derivative
 More about derivatives
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_10))
+({{% resource_link e749e082-b063-c95f-ee61-00cebaf974b8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,7 +153,7 @@ More about derivatives
 Higher derivatives
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_11))
+({{% resource_link e9679969-14b0-ca3b-1451-0f213068193b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -163,7 +165,7 @@ Higher derivatives
 Chain rule
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_12))
+({{% resource_link b88753bd-ca7a-a372-9ad0-398be8ee94d8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -175,7 +177,7 @@ Chain rule
 Implicit functions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_13))
+({{% resource_link fb3c2209-8254-bbc3-4ed6-940e60e8748a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +189,7 @@ Implicit functions
 Parametrised curves
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_14))
+({{% resource_link c9365895-b4cf-5445-c48f-094272721d7e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -199,7 +201,7 @@ Parametrised curves
 Arclength
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_15))
+({{% resource_link d4f071b2-97c5-8a0e-8825-5872c099f0ef "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -211,7 +213,7 @@ Arclength
 Moving frames
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_16))
+({{% resource_link df667950-df73-ec75-dc4e-8be6ac43a6c0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -223,7 +225,7 @@ Moving frames
 Vector fields
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_17))
+({{% resource_link f5ac7445-7d6c-04e4-23a2-98c260832fb1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -235,7 +237,7 @@ Vector fields
 Div grad curl and all that
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_18))
+({{% resource_link 2811ddbe-75dc-b771-e8ff-4b7d4e62dcac "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -247,7 +249,7 @@ Div grad curl and all that
 Taylor polynomials
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_19))
+({{% resource_link 4770b19c-cce6-8d98-f041-7e9393317482 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -259,7 +261,7 @@ Taylor polynomials
 Maxima and minima: I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_20))
+({{% resource_link 2f5db6e3-161e-65fe-2e20-f337f3c0beb3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -271,7 +273,7 @@ Maxima and minima: I
 Maxima and minima: II
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_21))
+({{% resource_link d7484e97-c8e9-52f4-cd87-3d2bde9f08d3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -283,7 +285,7 @@ Maxima and minima: II
 Double integrals
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_22))
+({{% resource_link 49b2b8d1-1f4c-7491-dfca-7ea6c2f588cd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -295,7 +297,7 @@ Double integrals
 Inclusion-exclusion
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_23))
+({{% resource_link 90eff8d3-727b-6776-5825-3e6fb1aa5349 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -307,7 +309,7 @@ Inclusion-exclusion
 Triple integrals
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_24))
+({{% resource_link e5adab6c-ba97-ba0c-dc88-93fb9a5eadd8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -319,7 +321,7 @@ Triple integrals
 Change of coordinates: I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_25))
+({{% resource_link 7e60901f-add2-6ebe-e45f-26955bef17c4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -331,7 +333,7 @@ Change of coordinates: I
 Change of coordinates: II
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_26))
+({{% resource_link 60bac6c2-3bf4-c086-2dcb-81f2d8ee33c9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -343,7 +345,7 @@ Change of coordinates: II
 Line integrals
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_27))
+({{% resource_link 765c5c91-3e0e-7806-bba2-efbde49419ef "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -355,7 +357,7 @@ Line integrals
 Manifolds with boundary
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_28))
+({{% resource_link b822c148-d957-d46f-e640-fdf610d69561 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -367,7 +369,7 @@ Manifolds with boundary
 Conservative vector fields revisited
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_29))
+({{% resource_link 317ce269-a220-3c2c-1519-36d8c554a1bc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -379,7 +381,7 @@ Conservative vector fields revisited
 Surface integrals
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_30))
+({{% resource_link 6af2ac35-75ce-973d-e3f0-46df9fed3538 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -391,7 +393,7 @@ Surface integrals
 Flux
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_31))
+({{% resource_link 04645192-4add-8941-c966-380eec4fa51f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -403,7 +405,7 @@ Flux
 Stokes theorem
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_32))
+({{% resource_link 8db7d362-5086-79f7-f200-028a2abea95e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -415,7 +417,7 @@ Stokes theorem
 Gauss theorem
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_33))
+({{% resource_link 1a187785-7804-a3d0-d10f-ac5f38df2f76 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -427,7 +429,7 @@ Gauss theorem
 Forms on R{{< sup "n" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_022f10_l_34))
+({{% resource_link b7b2dc63-3178-9f80-a002-31ba0672fe1c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
