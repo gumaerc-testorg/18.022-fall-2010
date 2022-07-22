@@ -5,6 +5,7 @@ file: /courses/18-022-calculus-of-several-variables-fall-2010/3b11ca0fc26a346782
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT18_022F10_prf_model.pdf
 uid: 3b11ca0f-c26a-3467-828c-ccbfafe06ce4
 ---
 This resource contains solution to practice final exam. 
-

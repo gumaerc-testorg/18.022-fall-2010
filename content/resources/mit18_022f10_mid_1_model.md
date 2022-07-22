@@ -5,6 +5,7 @@ file: /courses/18-022-calculus-of-several-variables-fall-2010/78deada4b3c901a30a
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT18_022F10_mid_1_model.pdf
 uid: 78deada4-b3c9-01a3-0af3-271723c18ff2
 ---
 This resource contains solution to exam 1. 
-

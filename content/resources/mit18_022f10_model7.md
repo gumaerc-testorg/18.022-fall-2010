@@ -6,6 +6,7 @@ file: /courses/18-022-calculus-of-several-variables-fall-2010/995dc77200ff3265fe
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT18_022F10_model7.pdf
 uid: 995dc772-00ff-3265-fee3-2427bf472d4f
 ---
 This resource contains solutions for the problem statements related to vector field.
-

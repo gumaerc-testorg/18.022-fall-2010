@@ -6,6 +6,7 @@ file: /courses/18-022-calculus-of-several-variables-fall-2010/e6ff853acae59fd33d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT18_022F10_model1.pdf
 uid: e6ff853a-cae5-9fd3-3d21-9b2f245c217a
 ---
 This resource contains solutions for the problem statements related to functions.
-

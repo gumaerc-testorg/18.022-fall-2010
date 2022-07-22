@@ -6,6 +6,7 @@ file: /courses/18-022-calculus-of-several-variables-fall-2010/af50841c43e26d8061
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT18_022F10_model9.pdf
 uid: af50841c-43e2-6d80-611a-0473fcdf6be7
 ---
 This resource contains solutions for the problem statements related to functions and boundary.
-
