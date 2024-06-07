@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statements related to
   vector field.
 file: /courses/18-022-calculus-of-several-variables-fall-2010/995dc77200ff3265fee32427bf472d4f_MIT18_022F10_model7.pdf
+file_size: 187440
 file_type: application/pdf
 learning_resource_types:
 - Assignments
