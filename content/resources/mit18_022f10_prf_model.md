@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains solution to practice final exam. '
 file: /courses/18-022-calculus-of-several-variables-fall-2010/3b11ca0fc26a3467828cccbfafe06ce4_MIT18_022F10_prf_model.pdf
+file_size: 1690424
 file_type: application/pdf
 learning_resource_types:
 - Exams
