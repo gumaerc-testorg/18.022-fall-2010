@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains final exam. '
-file: /ol-ocw-studio-app/courses/18-022-calculus-of-several-variables-fall-2010/5ca3dd750edd7011d1c8242e861afabc_MIT18_022F10_Fin_Exam.pdf
+file: /courses/18-022-calculus-of-several-variables-fall-2010/5ca3dd750edd7011d1c8242e861afabc_MIT18_022F10_Fin_Exam.pdf
 file_size: 1386382
 file_type: application/pdf
 learning_resource_types:

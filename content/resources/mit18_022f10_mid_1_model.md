@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains solution to exam 1. '
-file: /ol-ocw-studio-app/courses/18-022-calculus-of-several-variables-fall-2010/78deada4b3c901a30af3271723c18ff2_MIT18_022F10_mid_1_model.pdf
+file: /courses/18-022-calculus-of-several-variables-fall-2010/78deada4b3c901a30af3271723c18ff2_MIT18_022F10_mid_1_model.pdf
 file_size: 911659
 file_type: application/pdf
 learning_resource_types:

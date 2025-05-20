@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-022-calculus-of-several-variables-fall-2010/f1756003063be5c44b1eb7cc7ecba0c4_18-022_stat-students.png
+file: /courses/18-022-calculus-of-several-variables-fall-2010/f1756003063be5c44b1eb7cc7ecba0c4_18-022_stat-students.png
 file_size: 2968
 file_type: image/png
 image_metadata:
