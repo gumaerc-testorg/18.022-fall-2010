@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions for the problem statements related to
   functions.
-file: /courses/18-022-calculus-of-several-variables-fall-2010/e6ff853acae59fd33d219b2f245c217a_MIT18_022F10_model1.pdf
+file: /ol-ocw-studio-app/courses/18-022-calculus-of-several-variables-fall-2010/e6ff853acae59fd33d219b2f245c217a_MIT18_022F10_model1.pdf
 file_size: 104298
 file_type: application/pdf
 learning_resource_types:
